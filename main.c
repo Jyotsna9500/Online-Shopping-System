@@ -60,6 +60,7 @@ int main()
 		                { 
                             case 1: if(st1>0)
 			                        { 
+										printf("shajktimaan")
                                         printf("\nEnter quantity ::");
 			                            scanf("%d",&q);
 			                            if(q< sto1 && sto1>0)
