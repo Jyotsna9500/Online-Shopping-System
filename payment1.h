@@ -21,6 +21,7 @@ int COD()
     {
         create();
     }
+
     printf("my name is vaibhav");
 xyz:printf("\n\n\t\t\t Delivery Charges is Rs. 60");
     printf("\n\tTotal Amount to pay %d + 60 = Rs.%d",sum,sum+60);
